@@ -62,10 +62,10 @@
 <div align="center">
   <p><i>Let's connect and build something amazing together!</i></p>
   
-  <a href="https://linkedin.com/in/username-kamu">
+  <a href="https://linkedin.com/in/allodya">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://instagram.com/username-kamu">
+  <a href="https://instagram.com/allodyaq">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </div>
